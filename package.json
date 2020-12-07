@@ -1,18 +1,14 @@
 {
-  "name": "electron-quick-start",
+  "name": "coffee-writer",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "epub editor",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/zaffre001/coffee-writer.git",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "epub"
   ],
   "author": "GitHub",
   "license": "CC0-1.0",
